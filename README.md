@@ -34,9 +34,7 @@ Here are some ideas to get you started:
 </div></td>
 <td valign="top" width="40%"></td>
 <td valign="top" width="40%">
-<div align="right"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31if3f2whgtd3pz35u2ei3gpnyze&
-cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true" 
-width="175" height="200"/></div></td>
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31if3f2whgtd3pz35u2ei3gpnyze&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true" /></div>  </td>
 </tr>
 </table>
 
