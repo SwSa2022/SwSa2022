@@ -30,13 +30,17 @@ Here are some ideas to get you started:
 <a href="https://t.me/SwSa40721" target="_blank">
 <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
 </a>
-</div>
 
 ---
 
 ### My Skill Set:
 <div>
 </div>
+
+---
+
+<div align="right"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31if3f2whgtd3pz35u2ei3gpnyze&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true" width="175" height="200"/></div> 
+
 
 
 
