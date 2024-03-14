@@ -1,4 +1,4 @@
-<style>
+<!--<style>
 td, th {
    border: none!important;
 }
@@ -7,7 +7,7 @@ background-image:linear-gradient(to right, #ff0000, #00ff00);
 -webkit-background-clip: text;
 -webkit-text-fill-color: transparent;
 }
-</style>
+</style>-->
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=SainsComic&size=35&duration=3000&pause=2000&color=19830B7B&background=83761100&center=true&multiline=true&random=false&width=435&lines=Hi%2C+I'm+Swetlana.)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=SainsComic&weight=900&size=35&duration=2000&pause=2000&color=19830B7B&background=83761100&vCenter=true&multiline=true&random=false&width=435&lines=Glad+to+see+you+here!)](https://git.io/typing-svg) -->
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 ---
 
 <div>
-<table ><tr><td valign="top" width="40%" border="none">
+<table ><tr><td valign="top" width="55%" border="none">
 <div align="left"> 
 <h2>🤝 Social media</h2>
 <a href="https://www.linkedin.com/in/svsa-2023y02m %D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9-%D1%84%D0%B8%D0%BB%D0%B8%D0%BC%D0%BE%D0%BD%D0%BE%D0%B2-2a0b07257/" target="_blank">
@@ -50,9 +50,9 @@ Here are some ideas to get you started:
 <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
 </a>
 </div></td>
-<td valign="top" width="45%" border="0"></td>
-<td valign="top" width="55%" border="0">
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31if3f2whgtd3pz35u2ei3gpnyze&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true" width="100%"height="100%"/></div>  </td>
+<!--<td valign="top" width="20%" border="0"></td>-->
+<td valign="top" width="45%" border="0">
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31if3f2whgtd3pz35u2ei3gpnyze&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true" width="150"height="220"/></div>  </td>
 </tr>
 </table>
 </div>
@@ -61,14 +61,14 @@ Here are some ideas to get you started:
 
 ### Languages Tools Frameworks
 <table><tr>
-<td valign="top" width="25%" border="0" align="center">
+<td valign="top" width="15%" border="0" align="center">
 <!-- <div align="center"> -->
 <h3>Code Editor</h3>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" title="intellij" alt="intellij" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>
 <!-- </div> -->
 </td>
-<td valign="top" width="25%" border="0" align="center">
+<td valign="top" width="35%" border="0" align="center">
 <!-- <div align="center"> -->
 <h3>Backend and Database</h3>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" title="java" alt="java" width="40" height="40"/>
@@ -76,7 +76,7 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="MySql" alt="MySql" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" title="spring" alt="Spring" width="40" height="40"/></td>
 <!-- </div> -->
-<td valign="top" width="25%" border="0" align="center">
+<td valign="top" width="40%" border="0" align="center">
 <!-- <div align="center"> -->
 <h3>Frontend</h3>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>
@@ -84,7 +84,7 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"  title="ReactJS" alt="reactjs" width="40" height="40"/>
 <!-- </div> -->
-<td valign="top" width="25%" border="0" align="center">
+<td valign="top" width="15%" border="0" align="center">
 <!-- <div align="center"> -->
 <h3>Other</h3>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" title="git" alt="git" width="40" height="40"/>
@@ -106,7 +106,9 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"  title="ReactJS" alt="reactjs" width="40" height="40"/>
 </div>
  -->
+ 
 ---
+
 <table>
   <tr>
     <!-- <td>
