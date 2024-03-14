@@ -11,7 +11,7 @@ background-image:linear-gradient(to right, #ff0000, #00ff00);
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=SainsComic&size=35&duration=3000&pause=2000&color=19830B7B&background=83761100&center=true&multiline=true&random=false&width=435&lines=Hi%2C+I'm+Swetlana.)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=SainsComic&weight=900&size=35&duration=2000&pause=2000&color=19830B7B&background=83761100&vCenter=true&multiline=true&random=false&width=435&lines=Glad+to+see+you+here!)](https://git.io/typing-svg) -->
-<div id ="header" align="center">
+<div align="center">
 <p>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=SainsComic&weight=900&size=35&duration=3000&pause=2000&color=09521CDA&background=83761100&center=true&multiline=true&random=false&width=450&height=60&lines=Glad+to+see+you+here!" alt="Typing SVG" /></a>
 <h2><em>Hi, I'm Swetlana.</em></h2>
@@ -52,7 +52,8 @@ Here are some ideas to get you started:
 </div></td>
 <!--<td valign="top" width="20%" border="0"></td>-->
 <td valign="top" width="45%" border="0">
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31if3f2whgtd3pz35u2ei3gpnyze&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true" width="150"height="220"/></div>  </td>
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31if3f2whgtd3pz35u2ei3gpnyze&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31if3f2whgtd3pz35u2ei3gpnyze&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true")/>
+<!-- <img src="https://spotify-github-profile.vercel.app/api/view?uid=31if3f2whgtd3pz35u2ei3gpnyze&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true" width="150"height="220"/></div>  </td> -->
 </tr>
 </table>
 </div>
