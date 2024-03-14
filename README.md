@@ -1,5 +1,16 @@
+<style>
+td, th {
+   border: none!important;
+}
+h1, h2 {
+background-image:linear-gradient(to right, #ff0000, #00ff00); 
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+}
+</style>
+
 <div id ="header" align="center">
-<p><h1 style="background-image:linear-gradient(to right, #ff0000, #00ff00); -webkit-background-clip: text; -webkit-text-fill-color: transparent; align="center">Hi, I'm Swetlana. Glad to see you here!</h1></p>
+<p><h1 align="center">Hi, I'm Swetlana. Glad to see you here!</h1></p>
 <h3 style="background-image: linear-gradient(to right, #ff0000, #00ff00); -webkit-background-clip: text; -webkit-text-fill-color: transparent; aligin=center"><em> I am a passionate and eager junior(beginn) IT professional with a focus on application development. My experiences, gained during an internship and vocational retraining, include project development using Java, Angular, Spring Boot, NodeJS, Maven, Flyway, MySQL, and GitHub. Currently, I am focusing on furthering my Java skills with JavaRush. With a positive mindset, teamwork ability, and flexibility, I am ready to tackle new challenges.</em></h3>
 </div>
 
@@ -49,14 +60,14 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" title="intellij" alt="intellij" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>
 <!-- </div> -->
-</td>&nbsp;
+</td>
 <td valign="top" width="25%" border="0" align="center">
 <!-- <div align="center"> -->
 <h3>Backend and Database</h3>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" title="java" alt="java" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" title="mariaDB" alt="mariaDB" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="MySql" alt="MySql" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" title="spring" alt="Spring" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" title="spring" alt="Spring" width="40" height="40"/></td>
 <!-- </div> -->
 <td valign="top" width="25%" border="0" align="center">
 <!-- <div align="center"> -->
