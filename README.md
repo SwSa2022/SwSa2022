@@ -1,17 +1,17 @@
-<style>
+<!-- <style>
 td, th {
    border: none!important;
 }
-h1, h2 {
+h1, h3 {
 background-image:linear-gradient(to right, #ff0000, #00ff00); 
 -webkit-background-clip: text;
 -webkit-text-fill-color: transparent;
 }
-</style>
+</style> -->
 
 <div id ="header" align="center">
-<p><h1 align="center">Hi, I'm Swetlana. Glad to see you here!</h1></p>
-<h3 style="background-image: linear-gradient(to right, #ff0000, #00ff00); -webkit-background-clip: text; -webkit-text-fill-color: transparent; aligin=center"><em> I am a passionate and eager junior(beginn) IT professional with a focus on application development. My experiences, gained during an internship and vocational retraining, include project development using Java, Angular, Spring Boot, NodeJS, Maven, Flyway, MySQL, and GitHub. Currently, I am focusing on furthering my Java skills with JavaRush. With a positive mindset, teamwork ability, and flexibility, I am ready to tackle new challenges.</em></h3>
+<p><h1>Hi, I'm Swetlana. Glad to see you here!</h1></p>
+<p><h3><em> I am a passionate and eager junior(beginn) IT professional with a focus on application development. My experiences, gained during an internship and vocational retraining, include project development using Java, Angular, Spring Boot, NodeJS, Maven, Flyway, MySQL, and GitHub. Currently, I am focusing on furthering my Java skills with JavaRush. With a positive mindset, teamwork ability, and flexibility, I am ready to tackle new challenges.</em></h3></p>
 </div>
 
 
