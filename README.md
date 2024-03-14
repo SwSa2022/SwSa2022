@@ -11,7 +11,7 @@ background-image:linear-gradient(to right, #ff0000, #00ff00);
 
 <div id ="header" align="center">
 <p><h1>Hi, I'm Swetlana. Glad to see you here!</h1></p>
-<p><h3><em> I am a passionate and eager junior(beginn) IT professional with a focus on application development. My experiences, gained during an internship and vocational retraining, include project development using Java, Angular, Spring Boot, NodeJS, Maven, Flyway, MySQL, and GitHub. Currently, I am focusing on furthering my Java skills with JavaRush. With a positive mindset, teamwork ability, and flexibility, I am ready to tackle new challenges.</em></h3></p>
+<p><h3><em> I am a passionate and eager junior (beginn) IT professional with a focus on application development. My experiences, gained during an internship and vocational retraining, include project development using Java, Angular, Spring Boot, NodeJS, Maven, Flyway, MySQL and GitHub. Currently, I am focusing on furthering my Java skills with JavaRush. With a positive mindset, teamwork ability, and flexibility, I am ready to tackle new challenges.</em></h3></p>
 </div>
 
 
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 ---
 
-<table ><tr border="none" border-collapse="collapse"><td valign="top" width="40%" border="none">
+<table ><tr color="green" border="none" border-collapse="collapse"><td valign="top" width="40%" border="none">
 <div align="left" id="badges"> 
 <h2>🤝 Social media</h2>
 <a href="https://www.linkedin.com/in/svsa-2023y02m %D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9-%D1%84%D0%B8%D0%BB%D0%B8%D0%BC%D0%BE%D0%BD%D0%BE%D0%B2-2a0b07257/" target="_blank">
@@ -111,7 +111,7 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=SwSa2022)
+[^1]:![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=SwSa2022)
 
 
 
