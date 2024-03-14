@@ -41,7 +41,35 @@ Here are some ideas to get you started:
 ---
 
 ### Languages Tools Frameworks
-<div align="center">
+<table><tr>
+<td valign="top" width="20%" border="0">
+<div align="center"><h3>Code Editor</h3>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" title="intellij" alt="intellij" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>
+</div>
+</td>
+<td valign="top" width="20%" border="0">
+<div align="center"><h3>Backend and Database</h3>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" title="java" alt="java" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" title="mariaDB" alt="mariaDB" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="MySql" alt="MySql" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" title="spring" alt="Spring" width="40" height="40"/>
+</div>
+<td valign="top" width="20%" border="0">
+<div align="center"><h3>Frontend</h3>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"  title="css" alt="css" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"  title="ReactJS" alt="reactjs" width="40" height="40"/>
+</div>
+<td valign="top" width="20%" border="0">
+<div align="center"><h3>Other</h3>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" title="git" alt="git" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" title="maven" alt="maven" width="40" height="40"/>
+</div>
+
+</tr></table>
+<!-- <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" title="intellij" alt="intellij" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" title="git" alt="git" width="40" height="40"/>
@@ -55,7 +83,7 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"  title="ReactJS" alt="reactjs" width="40" height="40"/>
 </div>
-
+ -->
 ---
 <table>
   <tr>
@@ -63,7 +91,7 @@ Here are some ideas to get you started:
       <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=SwSa2022&theme=dark&background=000000" alt="webDev's Github stats" />
     </td> -->
     <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SwSa2022&layout=compact&theme=vision-friendly-dark" />
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SwSa2022&layout=compact&theme=vision-friendly-light" />
     </td>
   </tr>
 </table>
