@@ -1,4 +1,4 @@
-<!-- <style>
+<style>
 td, th {
    border: none!important;
 }
@@ -7,7 +7,8 @@ background-image:linear-gradient(to right, #ff0000, #00ff00);
 -webkit-background-clip: text;
 -webkit-text-fill-color: transparent;
 }
-</style> -->
+</style>
+
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=SainsComic&size=35&duration=3000&pause=2000&color=19830B7B&background=83761100&center=true&multiline=true&random=false&width=435&lines=Hi%2C+I'm+Swetlana.)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=SainsComic&weight=900&size=35&duration=2000&pause=2000&color=19830B7B&background=83761100&vCenter=true&multiline=true&random=false&width=435&lines=Glad+to+see+you+here!)](https://git.io/typing-svg) -->
 <div id ="header" align="center">
@@ -37,6 +38,7 @@ Here are some ideas to get you started:
 - 📫 *Connect with me:  [![Telegram Badge](https://img.shields.io/badge/-SwetlanaSajzewa-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/SwSa40721) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:anamess31@gmail.com)* 
 
 ---
+
 <div>
 <table ><tr><td valign="top" width="40%" border="none">
 <div align="left"> 
