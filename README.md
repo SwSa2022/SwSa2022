@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 </a>
 </div></td>
 <!--<td valign="top" width="20%" border="0"></td>-->
-<td valign="top" width="45%" border="0">
+<!--<td valign="top" width="45%" border="0">
 <!--<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31if3f2whgtd3pz35u2ei3gpnyze&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31if3f2whgtd3pz35u2ei3gpnyze&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true")/>
 <!-- <img src="https://spotify-github-profile.vercel.app/api/view?uid=31if3f2whgtd3pz35u2ei3gpnyze&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true" width="150"height="220"/></div>  </td> -->
 </tr>
